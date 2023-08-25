@@ -1,7 +1,8 @@
 # database-security
 
 This is a group coursework in the final semester. We were required to build a normalized database and grant the least privilege to every user to ensure confidentiality, integrity and availability of the database.
-I was responsible in:
+
+Responsible areas:
 1) Create tables with constraints
 2) Insert records into tables
 3) Create and grant permissions to every role
